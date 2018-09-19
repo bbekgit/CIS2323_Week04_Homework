@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-Class populateChessBoard{
+class populateChessBoard{
+	
 
 private string whitepiece[16];
 
