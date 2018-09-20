@@ -1,7 +1,7 @@
 import java.util.*;
 import Piece.*;
 
-public class populateChessBoard{
+class populateChessBoard{
 public static void main (String [] args) {	
 
 private string whitepiece[16];
@@ -51,3 +51,4 @@ System.out.println(whitepiece[i]);
 
 }
 }
+
