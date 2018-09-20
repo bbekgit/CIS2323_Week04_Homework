@@ -1,7 +1,8 @@
-import java.util.Scanner;
+import java.util.*;
+import Piece.*;
 
-class populateChessBoard{
-	
+public class populateChessBoard{
+public static void main (String [] args) {	
 
 private string whitepiece[16];
 
@@ -47,4 +48,6 @@ for(int i=0;i<whitepiece.lemgth;i++)
 
 System.out.println(whitepiece[i]);
 
+
+}
 }
